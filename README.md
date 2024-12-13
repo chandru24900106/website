@@ -215,6 +215,8 @@ Publish the website in the given URL.
 ```
 # OUTPUT:
 ![alt text](<Screenshot (8).png>)
-![alt text](<Screenshot (8)-1.png>)
+![Screenshot (9)](https://github.com/user-attachments/assets/495445e8-0759-49e9-bca3-208777d2fefe)
+
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
